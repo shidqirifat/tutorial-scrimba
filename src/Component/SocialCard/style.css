@@ -1,0 +1,27 @@
+.social-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  justify-content: center;
+  height: 64px;
+  gap: 1rem;
+  width: 100%;
+  padding: 19.5px 72.5px;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #161619;
+}
+a {
+  margin: 0 auto;
+  width: max-content;
+  text-align: center;
+  height: 25px;
+  width: 25px;
+  color: white;
+  text-decoration: none;
+}
+.social-icon {
+  font-size: 1.6rem;
+  color: #918e9b;
+}
