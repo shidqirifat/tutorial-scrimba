@@ -1,0 +1,18 @@
+main {
+  padding: 26px 36px;
+}
+.jumbotron-img {
+  margin: 0 auto 32px;
+  display: block;
+}
+main h1 {
+  font-weight: 600;
+  font-size: 36px;
+  margin-bottom: 16px;
+}
+main h3 {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 17.5px;
+  width: 320px;
+}
