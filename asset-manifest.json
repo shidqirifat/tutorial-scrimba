@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tutorial-scrimba/static/css/main.2cb107c2.css",
+    "main.js": "/tutorial-scrimba/static/js/main.e007bbf9.js",
+    "static/media/shidqi.png": "/tutorial-scrimba/static/media/shidqi.1ded0c296885119dd9fa.png",
+    "index.html": "/tutorial-scrimba/index.html",
+    "main.2cb107c2.css.map": "/tutorial-scrimba/static/css/main.2cb107c2.css.map",
+    "main.e007bbf9.js.map": "/tutorial-scrimba/static/js/main.e007bbf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cb107c2.css",
+    "static/js/main.e007bbf9.js"
+  ]
+}
