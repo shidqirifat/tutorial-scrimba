@@ -1,12 +1,10 @@
 import React from 'react';
-import Header from './component/HeaderCard/Header';
-import MainContent from './component/MainContentCard/MainContent';
+import Main from './Main';
 
 function App() {
   return (
     <div className="container">
-      <Header />
-      <MainContent />
+      <Main />
     </div>
   );
 }
